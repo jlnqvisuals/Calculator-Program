@@ -74,7 +74,7 @@ It offers a clear button (Clear) to reset the calculator and start a new calcula
 |**Contact:** |quilino.jlnq@gmail.com|
 |-------------------------:|:--------------|
 
-|**Version:** |MultiProgram C++ - Version 1.1|
+|**Version:** |Version 1.1|
 |-------------------------:|:--------------|
 
 |**Copyright:** |© 2023 JLNQ Visuals|
