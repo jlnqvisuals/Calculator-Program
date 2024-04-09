@@ -1,0 +1,73 @@
+C:\Users\admin\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\admin\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\admin\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\admin\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\admin\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.AssemblyReference.cache
+C:\Users\admin\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+C:\Users\admin\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\admin\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\admin\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\admin\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\Users\admin\Downloads\CALCULATOR (1)\WindowsApp3\obj\Debug\WindowsApp3.vbproj.AssemblyReference.cache
+C:\Users\admin\Downloads\CALCULATOR (1)\WindowsApp3\obj\Debug\WindowsApp3.vbproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\CALCULATOR (1)\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+C:\Users\admin\Downloads\CALCULATOR (1)\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\admin\Downloads\CALCULATOR (1)\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+C:\Users\admin\Downloads\CALCULATOR (1)\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\CALCULATOR (1)\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\admin\Downloads\CALCULATOR (1)\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\admin\Downloads\CALCULATOR (1)\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\Users\admin\Downloads\CALCULATOR (1)\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\admin\Downloads\CALCULATOR (1)\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\admin\Downloads\CALCULATOR (1)\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\admin\Downloads\CALCULATOR (1)\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\admin\Downloads\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\admin\Downloads\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\admin\Downloads\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\admin\Downloads\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\admin\Downloads\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.AssemblyReference.cache
+C:\Users\admin\Downloads\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+C:\Users\admin\Downloads\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\admin\Downloads\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+C:\Users\admin\Downloads\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\admin\Downloads\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\admin\Downloads\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\Users\JLNQo\Documents\Visual Studio 2015\Projects\CABERTE CALC\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\JLNQo\Documents\Visual Studio 2015\Projects\CABERTE CALC\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\JLNQo\Documents\Visual Studio 2015\Projects\CABERTE CALC\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\JLNQo\Documents\Visual Studio 2015\Projects\CABERTE CALC\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\Users\JLNQo\Documents\Visual Studio 2015\Projects\CABERTE CALC\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\JLNQo\Documents\Visual Studio 2015\Projects\CABERTE CALC\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\JLNQo\Documents\Visual Studio 2015\Projects\CABERTE CALC\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\JLNQo\Documents\Visual Studio 2015\Projects\CABERTE CALC\WindowsApp3\obj\Debug\WindowsApp3.vbprojResolveAssemblyReference.cache
+C:\Users\JLNQo\Documents\Visual Studio 2015\Projects\CABERTE CALC\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\JLNQo\Documents\Visual Studio 2015\Projects\CABERTE CALC\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.Cache
+C:\Users\JLNQo\Documents\Visual Studio 2015\Projects\CABERTE CALC\WindowsApp3\obj\Debug\WindowsApp3.Calculator.resources
+C:\Users\JLNQo\Documents\CABERTE CALC\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\JLNQo\Documents\CABERTE CALC\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\JLNQo\Documents\CABERTE CALC\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\JLNQo\Documents\CABERTE CALC\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\Users\JLNQo\Documents\CPEPROG 2_LAB 5_CALCULATOR\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\JLNQo\Documents\CPEPROG 2_LAB 5_CALCULATOR\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\JLNQo\Documents\CPEPROG 2_LAB 5_CALCULATOR\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\JLNQo\Documents\CPEPROG 2_LAB 5_CALCULATOR\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\Users\JLNQo\Documents\CPEPROG 2_LAB 5_CALCULATOR\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\JLNQo\Documents\CPEPROG 2_LAB 5_CALCULATOR\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\JLNQo\Documents\CPEPROG 2_LAB 5_CALCULATOR\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\JLNQo\Documents\CPEPROG 2_LAB 5_CALCULATOR\WindowsApp3\obj\Debug\WindowsApp3.vbprojResolveAssemblyReference.cache
+C:\Users\JLNQo\Documents\CPEPROG 2_LAB 5_CALCULATOR\WindowsApp3\obj\Debug\WindowsApp3.Calculator.resources
+C:\Users\JLNQo\Documents\CPEPROG 2_LAB 5_CALCULATOR\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\JLNQo\Documents\CPEPROG 2_LAB 5_CALCULATOR\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.Cache
+E:\00_USER FILES (LIVE)\Desktop\PROGRAMMING\CPEPROG 2_LAB 5_CALCULATOR\WindowsApp3\obj\Debug\WindowsApp3.vbproj.AssemblyReference.cache
+E:\00_USER FILES (LIVE)\Desktop\PROGRAMMING\CPEPROG 2_LAB 5_CALCULATOR\WindowsApp3\obj\Debug\WindowsApp3.Calculator.resources
+E:\00_USER FILES (LIVE)\Desktop\PROGRAMMING\CPEPROG 2_LAB 5_CALCULATOR\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+E:\00_USER FILES (LIVE)\Desktop\PROGRAMMING\CPEPROG 2_LAB 5_CALCULATOR\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+E:\00_USER FILES (LIVE)\Desktop\PROGRAMMING\CPEPROG 2_LAB 5_CALCULATOR\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+E:\00_USER FILES (LIVE)\Desktop\PROGRAMMING\CPEPROG 2_LAB 5_CALCULATOR\WindowsApp3\obj\Debug\WindowsApp3.exe
+E:\00_USER FILES (LIVE)\Desktop\PROGRAMMING\CPEPROG 2_LAB 5_CALCULATOR\WindowsApp3\obj\Debug\WindowsApp3.xml
+E:\00_USER FILES (LIVE)\Desktop\PROGRAMMING\CPEPROG 2_LAB 5_CALCULATOR\WindowsApp3\obj\Debug\WindowsApp3.pdb
