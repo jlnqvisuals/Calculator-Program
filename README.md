@@ -80,7 +80,7 @@ It offers a clear button (Clear) to reset the calculator and start a new calcula
 |**Copyright:** |© 2023 JLNQ Visuals|
 |-------------------------:|:--------------|
 
-|**Program Completion Date:** |January 22, 2023|
+|**Program Completion Date:** |May 13, 2023|
 |-------------------------:|:--------------|
 
 
